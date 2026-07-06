@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Dependency folders
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java
+*.class
+*.jar
+target/
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Build folders
+dist/
+build/
+
+# Coverage
+coverage/
